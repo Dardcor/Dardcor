@@ -22,7 +22,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/github-stats.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: Dardcor
           template: classic
           base: header, activity, community, repositories
@@ -39,7 +39,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: Dardcor
           template: classic
           base: ""
@@ -62,7 +62,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: Dardcor
           template: classic
           base: ""
@@ -79,7 +79,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics/habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: Dardcor
           template: classic
           base: ""
