@@ -1,0 +1,7 @@
+# robots.txt — Syahrul Ardi Prasetiyo (Dardcor) GitHub Profile
+# Allow all crawlers to index all content
+
+User-agent: *
+Allow: /
+
+Sitemap: https://dardcor.github.io/Dardcor/sitemap.xml

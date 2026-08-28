@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- GitHub Profile Page -->
+    <url>
+        <loc>https://github.com/Dardcor</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- GitHub Pages Landing -->
+    <url>
+        <loc>https://dardcor.github.io/Dardcor/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Main Portfolio Website -->
+    <url>
+        <loc>https://www.dardcor.my.id</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- LinkedIn Profile -->
+    <url>
+        <loc>https://www.linkedin.com/in/syahrul-ardi-prasetiyo-5564a4396</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+</urlset>

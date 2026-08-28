@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you find my work useful, please cite it using the metadata below."
+title: "Syahrul Ardi Prasetiyo — Portfolio & Projects"
+type: software
+authors:
+  - family-names: "Prasetiyo"
+    given-names: "Syahrul Ardi"
+    alias: "Dardcor"
+    email: "syahreul.ardi@gmail.com"
+    orcid: ""
+    affiliation: "Independent Developer"
+repository-code: "https://github.com/Dardcor"
+url: "https://www.dardcor.my.id"
+keywords:
+  - data-engineering
+  - artificial-intelligence
+  - machine-learning
+  - full-stack-development
+  - python
+  - deep-learning
+license: MIT
+date-released: "2025-01-01"
