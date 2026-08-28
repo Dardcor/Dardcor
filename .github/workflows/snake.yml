@@ -19,34 +19,14 @@ jobs:
 
     steps:
       # ═══════════════════════════════════════════
-      # 🐍 Dark Theme Snake (Ocean Gradient)
+      # 🐍 Purple Theme Animated Snake
       # ═══════════════════════════════════════════
-      - name: Generate Snake - Dark Mode
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Dardcor
-          outputs: |
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00f7ff&color_dots=#0d1117,#0e4429,#006d32,#26a641,#39d353
-
-      # ═══════════════════════════════════════════
-      # 🌊 Ocean Blue Snake (Signature Style)
-      # ═══════════════════════════════════════════
-      - name: Generate Snake - Ocean Theme
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Dardcor
-          outputs: |
-            dist/github-snake-ocean.svg?palette=github-dark&color_snake=#00f7ff&color_dots=#0d1117,#0a2f4e,#0d4f8b,#1a7fd4,#00f7ff
-
-      # ═══════════════════════════════════════════
-      # 🎮 Animated GIF Snake
-      # ═══════════════════════════════════════════
-      - name: Generate Snake - Animated GIF
+      - name: Generate Snake - Purple Theme GIF
         uses: Platane/snk@v3
         with:
           github_user_name: Dardcor
           outputs: |
-            dist/github-snake.gif?color_snake=#00f7ff&color_dots=#0d1117,#0a2f4e,#0d4f8b,#1a7fd4,#00f7ff
+            dist/github-snake.gif?color_snake=#a855f7&color_dots=#0d0b1a,#1e0a3c,#3b1d7a,#7c3aed,#a855f7
 
       # ═══════════════════════════════════════════
       # 🚀 Deploy to Output Branch
