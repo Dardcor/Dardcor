@@ -84,7 +84,7 @@ fun_fact: "I turn coffee ☕ into code and messy data into insight 📊"
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dardcor&theme=midnight-purple&hide_border=true&background=0D0B1A&stroke=A855F7&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=A855F7&currStreakNum=C084FC&sideNums=C084FC&dates=8b5cf6" />
+  <img src="https://streak-stats.demolab.com/?user=Dardcor&theme=dark&hide_border=true&background=0D0B1A&stroke=A855F7&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=A855F7&currStreakNum=C084FC&sideNums=C084FC&dates=8b5cf6" />
 </p>
 
 <!--
